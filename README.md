@@ -1,58 +1,16 @@
-## Hi there :wave:
+### Welcome to my GitHub page!
 
-Welcome to my GitHub page!  
-My name is Martin Tarnowski, I am a recent computer science graduate and an aspiring software engineer!  
-
-- 🔭 I’m currently working on a web-based productivity application.
-- 🌱 I’m currently refining my HTML, CSS, and React skillsets.
-- 📫 How to reach me: tarnowm21@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: My profile picture is my awesome Australian Shepherd Indy!
-
-#### Languages  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-
-#### Technologies & Frameworks
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-
-#### Operating Systems
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)   
-
-## About Me
-
-<details>
-  <summary><b>Academics</b></summary>
-    I completed my BSc in Computer Science at MacEwan University in 2022.<br>
-    Throughout my studies I primarly focused on backend development, and embedded systems. Some of the key concepts include:<br>
-    <ul><li>Software Engineering</li>
-      <li>Agile/Scrum Development</li>
-      <li>Systems Programming</li>
-      <li>Object Oriented Programming</li>
-      <li>Wireless Embedded Systems</li>
-      <li>Database Management</li>
-      <li>Networks</li>
-      <li>Data Structures and Algorithms</li>
-      <li>Operating Systems</li>
-      <li>Data Visualization</li>
-      <li>Security</li></ul>     
-</details>
-
-<details>
-  <summary><b>Hobbies</b></summary>
-  <ul><li>Rock Climbing 🧗‍</li>
-    <li>Mountain Biking 🚵</li>
-    <li>Hiking 🌲</li>
-    <li>Dog Walking 🐶</li>
-    <li>Craft Beer 🍺</li>
-    <li>Gaming 🎮</li>
-  </ul>
-
-
-
-
-
-  
-  
-
-
-
+My name is Martin Tarnowski, I am currently working as a software engineer at Electronic Arts - BioWare.
+ - I focus on developing internal tools and web-based services.
+ - Ensuring reliability across our products, often through the use of logging/monitoring tools and CI/CD deployments.
+ - Developing software that interacts with various SDKs including PlayStation 5 and Xbox Series X with a focus in Save Game Libraries.
+ 
+#### Here are some of the technologies I work with on a daily basis
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
+![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
